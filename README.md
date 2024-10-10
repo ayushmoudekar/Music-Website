@@ -13,4 +13,4 @@ Developed Music app, a dynamic web application using HTML & CSS.
 
 Technologies Used: HTML & CSS
 
-Project Link:  http://127.0.0.1:5500/index.html
+
