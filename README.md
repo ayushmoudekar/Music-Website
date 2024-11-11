@@ -1,7 +1,4 @@
-Project overview :- 
-
-My Tunes
-
+Project overview :- My Tunes
 
 Developed Music app, a dynamic web application using HTML & CSS.
 
